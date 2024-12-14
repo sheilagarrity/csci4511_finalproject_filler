@@ -1,5 +1,7 @@
 Introduction to AI Algorithms Final Project: AI Agent for Filler Game Using Depth-Limited Minimax With Alpha-Beta Pruning
+
 Sheila Garrity
+
 December 13, 2024
 
 # Overview of Filler
